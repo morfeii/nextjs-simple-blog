@@ -2,9 +2,11 @@
   "name": "nextjs-simple-blog",
   "version": "1.0.0",
   "scripts": {
+    "prettier": "prettier --write ./**/*.tsx",
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "type-check": "tsc"
   },
   "dependencies": {
     "next": "latest",

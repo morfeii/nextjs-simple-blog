@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Link from 'next/link';
 import Head from 'next/head';
-import { Header, NavBar, A, H1, P, Main } from './LayoutStyled';
+import { Header, NavBar, A, H1, Main } from './LayoutStyled';
 import { LayoutProps } from '../../interfaces';
 
 const Layout: React.FC<LayoutProps> = ({
