@@ -1,5 +1,7 @@
 # Simple MVP Blog 
 
+DEMO - https://nextjs-simple-blog.morfeii.now.sh/
+
 Techologies used: [Next.js](https://nextjs.org/) SSR, [React](https://reactjs.org/), [Redux](https://redux.js.org/) with [TypeScript](https://www.typescriptlang.org/) and [styled-components](https://styled-components.com/).
 
 ## How to use it?
